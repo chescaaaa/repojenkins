@@ -1,3 +1,9 @@
+commit e4bc8d6d0c2d2f23e04c98603b063a7009cf0e89
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Wed Dec 11 17:17:26 2024 +0800
+
+    Adding commit history
+
 commit 3b730d06826b1f6b41f0dd1dbdbd12f33a97adb2
 Author: Criz <mischievous.virus@gmail.com>
 Date:   Wed Dec 11 17:17:26 2024 +0800
