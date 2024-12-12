@@ -1,0 +1,188 @@
+commit 01d01956bdae18aa30759e71eff7dde90fc739b4
+Author: Jomar <jomarlabaguismendoza25@gmail.com>
+Date:   Thu Dec 12 12:01:26 2024 +0800
+
+    From umak
+
+commit 45d1dadbe5d5bec09b9f983035c27e46172c977b
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Thu Dec 12 11:06:36 2024 +0800
+
+    Adding commit history
+
+commit de44c18ee8aa4aaf30e773094db41140d7cc98ef
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Thu Dec 12 11:06:36 2024 +0800
+
+    Modifying JenkinsAct.txt
+
+commit ca39116d6b92a7f7d693953d86eb4e310f3b2a9b
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Thu Dec 12 11:04:51 2024 +0800
+
+    Adding commit history
+
+commit a97dcbdec3a82139627f99b233a763a97c17d354
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Thu Dec 12 11:04:51 2024 +0800
+
+    Adding Jenkins Act 2
+
+commit eef6d85ddc54fde2f0bb29c2e98a029b42ba4ee2
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Thu Dec 12 11:03:30 2024 +0800
+
+    Adding commit history
+
+commit 918ea330826bb22433e8eb60717affca93823f6b
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Thu Dec 12 10:44:39 2024 +0800
+
+    Adding commit history
+
+commit 5fb7006f0cb9b9764c0c6320b971040b36a9d616
+Merge: afafbad 3662249
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Thu Dec 12 10:42:00 2024 +0800
+
+    Adding commit history
+
+commit afafbad8acf43a3cf8214b6c139e05649aac7fb0
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Thu Dec 12 10:40:19 2024 +0800
+
+    Adding commit history
+
+commit 7c9fe2fe2f0a47079eed665499d37934a826147c
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Thu Dec 12 10:40:19 2024 +0800
+
+    Adding Jenkins Act
+
+commit 1eb26b2d6f2e8b7668686bc69d02f637c6255bfd
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Thu Dec 12 10:40:04 2024 +0800
+
+    Adding commit history
+
+commit 68995baea166f7d1caa52443b31956c5cb8853e8
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Thu Dec 12 10:38:01 2024 +0800
+
+    Adding commit history
+
+commit dcc4b0a3712e8a7883d20dd718bd498b02dc36cc
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Thu Dec 12 10:30:22 2024 +0800
+
+    Adding commit history
+
+commit 812d2a111a6045a823f5f673e2a2f23429a59389
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Thu Dec 12 10:28:25 2024 +0800
+
+    Adding commit history
+
+commit de72b528242d735da195036429c8b95a1b89ef46
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Thu Dec 12 10:28:25 2024 +0800
+
+    Adding Jenkins Act
+
+commit 3662249103977f6105b7e0cbb9775aea7200d51a
+Merge: 6ceb6ee 77ac25b
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Thu Dec 12 09:25:05 2024 +0800
+
+    Resolved merge conflicts automatically
+
+commit 6ceb6eef87099aa7d405ed932e7f9fa619c3ab77
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Thu Dec 12 09:25:02 2024 +0800
+
+    Adding commit history
+
+commit 77ac25bd83d418320cb14ae60fb6e84967acfd20
+Author: Criz Franchesca Marie Cruz <146947850+chescaaaa@users.noreply.github.com>
+Date:   Thu Dec 12 09:04:36 2024 +0800
+
+    Delete JenkinsAct.txt
+
+commit 5e7c2991fb77d3e1303dfbbde4f5ef0ae53946ce
+Author: Criz Franchesca Marie Cruz <146947850+chescaaaa@users.noreply.github.com>
+Date:   Thu Dec 12 09:04:25 2024 +0800
+
+    Delete log.txt
+
+commit 6047ec36b50f1a244afe4f727d3bd85bdb57dd50
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Wed Dec 11 17:19:09 2024 +0800
+
+    Adding commit history
+
+commit 587e8dc6f423b81a1fe1cc872f2536551dfc5cd0
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Wed Dec 11 17:19:09 2024 +0800
+
+    Adding Jenkins Act
+
+commit 6d1202bb19dd1044bb87c2d6fb2d3c42e3dbd279
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Wed Dec 11 17:18:52 2024 +0800
+
+    Adding commit history
+
+commit 900f1f592aadfe247ec205235036c04489f1b528
+Merge: e4bc8d6 0dfe1ea
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Wed Dec 11 17:18:46 2024 +0800
+
+    Adding commit history
+
+commit e4bc8d6d0c2d2f23e04c98603b063a7009cf0e89
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Wed Dec 11 17:17:26 2024 +0800
+
+    Adding commit history
+
+commit 3b730d06826b1f6b41f0dd1dbdbd12f33a97adb2
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Wed Dec 11 17:17:26 2024 +0800
+
+    Adding Jenkins Act
+
+commit 0f72fc6ef461356696d5bd99b31e718cb5d4123c
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Wed Dec 11 17:15:33 2024 +0800
+
+    Adding commit history
+
+commit ea516cc0cd5223322de52f59211deb7a9627be4f
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Wed Dec 11 17:15:32 2024 +0800
+
+    Adding Jenkins Act
+
+commit 0dfe1eadbd95ecf25cf8b22cbcebf15cf955a0ee
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Wed Dec 11 17:13:34 2024 +0800
+
+    Adding commit history
+
+commit 1545a37f6bf631a9cad648a2b2cb8fed0ed4a8ac
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Wed Dec 11 17:13:34 2024 +0800
+
+    Adding Jenkins Act
+
+commit f1fee98159b7112eca016d158785feff9fe8336d
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Wed Dec 11 17:08:29 2024 +0800
+
+    Adding commit history
+
+commit e1afae265d12df08942c6b4d2c72bfa244dfea27
+Author: Criz <mischievous.virus@gmail.com>
+Date:   Wed Dec 11 17:08:28 2024 +0800
+
+    Adding Jenkins Act
